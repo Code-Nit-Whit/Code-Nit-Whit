@@ -62,7 +62,7 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Code-Nit-Whit/Code-Nit-Whit/github-profile-img.png" align="center" style="width: 100%" />
+<img src="https://github.com/Code-Nit-Whit/Code-Nit-Whit/blob/main/github-profile-img.png" align="center" style="width: 100%" />
 </div>  
 
 
