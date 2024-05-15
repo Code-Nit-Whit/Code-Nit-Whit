@@ -119,7 +119,10 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 ## 📝 Recent Blog Posts and Articles
 <!-- BLOG-POST-LIST:START -->
 - [Soloist Mastery: Bypassing the Boilerplate Bootcamp](https://dev.to/code-nit-whit/soloist-mastery-bypassing-the-boilerplate-bootcamp-i4l)
-- [Icon and Text Animation: The start of a journey.](https://dev.to/code-nit-whit/web-element-animations-1d18)
+- [Animated Gradient Corner Ribbon](https://gist.github.com/Code-Nit-Whit/8dbc6a96f33b5d338c5febe093fd9430)
+- [Squares: Iterative Duplication &amp; Recursive Agamogenesis](https://gist.github.com/Code-Nit-Whit/0f3effe6bc19eae611f43bfd7ee481c2)
+- [Animated Background- Random Circles and Squares](https://gist.github.com/Code-Nit-Whit/d3370b6cd639c528f7e7bf1701296b55)
+- [An Anti-Linter Fortress for Formatted Comment Blocks &lpar;lol&rpar;](https://gist.github.com/Code-Nit-Whit/c913d38f98305574a249b01d62b71e0d)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
