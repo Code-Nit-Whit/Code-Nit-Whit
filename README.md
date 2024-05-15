@@ -116,7 +116,10 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 </td><td valign="top" width="50%">
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Soloist Mastery: Bypassing the Boilerplate Bootcamp](https://dev.to/code-nit-whit/soloist-mastery-bypassing-the-boilerplate-bootcamp-i4l)
+- [Icon and Text Animation: The start of a journey.](https://dev.to/code-nit-whit/web-element-animations-1d18)
+<!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
 
