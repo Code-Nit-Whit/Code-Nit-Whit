@@ -1,4 +1,4 @@
-## Hey 👋, I'm Code Nit-Whit!  
+## Hey 👋, I'm Codie!  
   
 
 <a href="https://github.com/Code-Nit-Whit" target="_blank">
@@ -20,7 +20,7 @@
 ### Thanks for checking out my profile!  
 Intrigued by code since a young age, I've continuously honed my skills in web and application development. I specialize in full-stack web and cross-platform desktop development, leveraging frameworks like Node.js (Express) and Electron.js to build user-friendly and open source applications.
 
-### Technical Skills:
+### 🥷 Technical Skills:
 
 **Languages:** Proficient in JavaScript (including front-end and back-end development), HTML, CSS, with working knowledge of C#, SQL, and Python.
 
@@ -28,13 +28,13 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 **Version Control:** Proficient in Git for version control and collaboration on projects.
 
-### Programming Concepts:
+### 👨‍🏫 Programming Concepts:
 
 **Solid foundation:** Problem-solving, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Functional Programming, Event-Driven Programming (EDP), Asynchronous Programming.
 
 **Continuously learning:** Testing (unit testing, integration testing), Software Design Principles (SOLID), Security best practices.
 
-### Currently Exploring:
+### 📖 Currently Exploring:
 
 **Tech Stacks:** Expanding my tool set by learning C++ and Rust programming languages.
 
@@ -71,7 +71,7 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 <br/>  
 
 
-## Languages and Tools  
+## 📚 Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -107,7 +107,7 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 <br/>  
 
 
-## Github Stats  
+## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Code-Nit-Whit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
@@ -116,6 +116,7 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 </td><td valign="top" width="50%">
 
+#### 📝 Recent Blog Posts nd Articles
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  

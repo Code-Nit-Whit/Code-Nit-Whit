@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Blog Post Workflow
+      - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.8.7
             
         with:
-          feed_list: "https://dev.to/feed/code-nit-whit"
+          feed_list: "https://dev.to/feed/code-nit-whit,https://stackoverflow.com/feeds/user/24881027,https://gist.github.com/Code-Nit-Whit.atom"
