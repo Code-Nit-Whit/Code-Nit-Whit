@@ -116,9 +116,7 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 </td><td valign="top" width="50%">
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
 
