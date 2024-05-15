@@ -116,8 +116,15 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 </td><td valign="top" width="50%">
 
+<<<<<<< HEAD
 #### 📝 Recent Blog Posts nd Articles
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+=======
+<!-- BLOG-POST-LIST:START -->
+- [Soloist Mastery: Bypassing the Boilerplate Bootcamp](https://dev.to/code-nit-whit/soloist-mastery-bypassing-the-boilerplate-bootcamp-i4l)
+- [Icon and Text Animation: The start of a journey.](https://dev.to/code-nit-whit/web-element-animations-1d18)
+<!-- BLOG-POST-LIST:END -->
+>>>>>>> 7d8b015942517bedf810a1502d20d1cfc609a521
 
 </td></tr></table>  
 
