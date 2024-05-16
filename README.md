@@ -144,8 +144,5 @@ Intrigued by code since a young age, I've continuously honed my skills in web an
 
 <br/>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1264158526&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
